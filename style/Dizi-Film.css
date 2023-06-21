@@ -1,0 +1,73 @@
+body{
+    background-color: #181818;
+}
+nav{
+    background-color: black ;
+}
+.container2{
+    width: 98%;
+    margin: auto;
+}
+.nav-list ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+.nav-list ul li a{
+    text-decoration: none;
+    color: white;
+}
+.ikons-pic img{
+    width: 30px;
+    height: 30px;
+    margin-top: 2.5rem;
+}
+.ikons-pic a{
+    color: white;
+}
+
+
+.text h1{
+    font-size: 50px;
+}
+.text p{
+    margin-top: 1rem;
+    font-size: 20px;
+}
+
+.footer{
+    margin-top: 10rem;
+}
+.footor-ikon ul {
+    list-style-type: none;
+    display: flex;
+}
+.footor-ikon ul li a{
+    text-decoration: none;
+    color: white;
+}
+.fa-brands{
+    width: 30px;
+}
+.footer-content ul{
+    font-size: 13px;
+}
+
+.footer-content ul li {
+    list-style-type: none;
+    margin-top: 1rem;
+}
+.footer-content ul li a{
+    text-decoration: none;
+    color: white;
+}
+.btn {
+    color: white;
+    background-color: transparent;
+    border: solid 1px white;
+}
+.btn:hover{
+    color: red;
+    background-color: transparent;
+    border: solid 1px white;
+}
